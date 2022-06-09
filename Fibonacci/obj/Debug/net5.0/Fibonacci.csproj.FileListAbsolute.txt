@@ -1,0 +1,16 @@
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.csproj.AssemblyReference.cache
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.AssemblyInfoInputs.cache
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.AssemblyInfo.cs
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.csproj.CoreCompileInputs.cache
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.exe
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.deps.json
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.runtimeconfig.json
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.runtimeconfig.dev.json
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.dll
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.pdb
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.dll
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\obj\Debug\net5.0\refint\Fibonacci.dll
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.pdb
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.genruntimeconfig.cache
+D:\Documentos\2022\Documentos\2022-1 Universidad\6. Diseño dirigido por pruebas\Taller fibonacci\Fibonacci\obj\Debug\net5.0\ref\Fibonacci.dll
