@@ -12,7 +12,17 @@ namespace Fibonacci
         //Serie Fibonacci
         public static int SerieFibonacci(int numero)
         {
-            return 1;
+            int valorPrevio = 0;
+            int valorRecurrente = 0;
+
+            for(int i = 0; i <= numero; i++)
+            {
+                int valor = valorPrevio;
+                valorPrevio = valorRecurrente;
+                valorRecurrente = i == 1 ? 1 : (valor + valorPrevio);
+            }
+
+            return valorRecurrente;
         }
 
     }
