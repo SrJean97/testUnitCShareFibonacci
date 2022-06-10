@@ -27,13 +27,19 @@ namespace AuthTestFibonacci
         public void Prueba3()
         {
             int result = Fibonacci.Program.SerieFibonacci(10);
-            Assert.AreEqual(8, result);
+            Assert.AreEqual("Hola", result);
         }
         [TestMethod]
         public void Prueba4()
         {
             int result = Fibonacci.Program.SerieFibonacci(50);
             Assert.AreEqual(120, result);
+        }
+
+        public void Prueba5()
+        {
+            int result = Fibonacci.Program.SerieFibonacci(50);
+            Assert.AreEqual("Hola", result);
         }
     }
 }

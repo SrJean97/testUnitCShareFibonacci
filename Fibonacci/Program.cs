@@ -15,6 +15,7 @@ namespace Fibonacci
             int valorPrevio = 0;
             int valorRecurrente = 0;
 
+
             for(int i = 0; i <= numero; i++)
             {
                 int valor = valorPrevio;
